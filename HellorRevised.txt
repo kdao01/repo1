@@ -4,5 +4,6 @@ public class HelloRevised{
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello Clone!" );
+		  System.out.println( "Hello Clone2!" );
       }
 	  }
